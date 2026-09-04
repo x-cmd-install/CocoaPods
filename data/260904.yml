@@ -7,7 +7,7 @@ about:
   head: b80e113
   archived: false
   latestVersion: 1.17.0
-  collectedAt: 2026-09-04T19:40:30Z
+  collectedAt: 2026-09-04T20:51:58Z
 timeline:
   created: 2011-08-14
   lastCommit: 2026-07-06
@@ -84,6 +84,79 @@ total:
   openIssue: 774
   commit: 10449
 ---
+path: /home/runner/.x-repo/github.com/CocoaPods/CocoaPods
+collectedAt: 2026-09-04T20:52:03Z
+loc:
+  Json:
+    code: 233894
+    comments: 0
+    blanks: 10563
+    files: 3268
+  Ruby:
+    code: 39203
+    comments: 8855
+    blanks: 6758
+    files: 278
+  ObjectiveC:
+    code: 38865
+    comments: 4521
+    blanks: 9157
+    files: 394
+  Sh:
+    code: 6945
+    comments: 1125
+    blanks: 1223
+    files: 59
+  CHeader:
+    code: 6775
+    comments: 9967
+    blanks: 3709
+    files: 570
+  XcodeConfig:
+    code: 4269
+    comments: 0
+    blanks: 0
+    files: 318
+  Swift:
+    code: 2117
+    comments: 1842
+    blanks: 843
+    files: 111
+  C:
+    code: 312
+    comments: 25
+    blanks: 71
+    files: 2
+  Rakefile:
+    code: 302
+    comments: 34
+    blanks: 70
+    files: 1
+  ReStructuredText:
+    code: 177
+    comments: 0
+    blanks: 69
+    files: 1
+  Yaml:
+    code: 144
+    comments: 0
+    blanks: 0
+    files: 16
+  Markdown:
+    code: 0
+    comments: 9643
+    blanks: 3852
+    files: 94
+  Text:
+    code: 0
+    comments: 66457
+    blanks: 581
+    files: 139
+total:
+  code: 333346
+  comments: 102487
+  blanks: 36934
+  files: 5251
 ---
 date: "2026-08-24"
 repo:
