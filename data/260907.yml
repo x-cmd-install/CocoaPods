@@ -5,7 +5,7 @@ about:
   head: b80e113
   archived: false
   latestVersion: "1.17.0"
-  collectedAt: 2026-09-07T06:15:58Z
+  collectedAt: 2026-09-07T18:23:06Z
 timeline:
   created: 2011-08-14
   lastCommit: 2026-07-06
@@ -83,7 +83,7 @@ total:
   commit: 10449
 ---
 path: /home/runner/.x-repo/github.com/CocoaPods/CocoaPods
-collectedAt: 2026-09-07T06:16:10Z
+collectedAt: 2026-09-07T18:23:15Z
 loc:
   Json:
     code: 233894
@@ -387,7 +387,7 @@ checks:
       - 'Warn: 0 commits out of 25 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:16:15+00:00
+  collectedAt: 2026-09-07T18:23:18+00:00
   platform:
     darwin/arm64:
       name:  null
