@@ -7,7 +7,7 @@ about:
   latestVersion: "1.17.0"
   latestRelease: "1.17.0"
   latestPrerelease: "1.11.0.rc.1"
-  collectedAt: 2026-09-09T06:26:57Z
+  collectedAt: 2026-09-09T20:37:34Z
 timeline:
   created: 2011-08-14
   lastCommit: 2026-07-06
@@ -35,59 +35,59 @@ recent:
     release: 0
     mergedPR: 0
     openPR: 0
-    closedIssue: 0
-    openIssue: 3
+    closedIssue: 1
+    openIssue: 2
     commit: 0
   last60d:
     since: 2026-07-11
     release: 0
     mergedPR: 0
     openPR: 0
-    closedIssue: 4
-    openIssue: 5
+    closedIssue: 5
+    openIssue: 4
     commit: 0
   last90d:
     since: 2026-06-11
     release: 1
     mergedPR: 5
     openPR: 0
-    closedIssue: 4
-    openIssue: 8
+    closedIssue: 5
+    openIssue: 7
     commit: 25
   last180d:
     since: 2026-03-13
     release: 1
     mergedPR: 5
     openPR: 2
-    closedIssue: 9
-    openIssue: 10
+    closedIssue: 10
+    openIssue: 9
     commit: 25
   last360d:
     since: 2025-09-14
     release: 1
     mergedPR: 5
     openPR: 3
-    closedIssue: 24
-    openIssue: 27
+    closedIssue: 25
+    openIssue: 26
     commit: 25
   last720d:
     since: 2024-09-19
     release: 4
     mergedPR: 20
     openPR: 9
-    closedIssue: 125
-    openIssue: 157
+    closedIssue: 126
+    openIssue: 156
     commit: 88
 total:
   release: 192
   mergedPR: 1709
   openPR: 61
-  closedIssue: 9740
-  openIssue: 776
+  closedIssue: 9741
+  openIssue: 775
   commit: 10449
 ---
 path: /home/runner/.x-repo/github.com/CocoaPods/CocoaPods
-collectedAt: 2026-09-09T06:27:06Z
+collectedAt: 2026-09-09T20:37:48Z
 loc:
   Json:
     code: 233894
