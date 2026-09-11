@@ -7,7 +7,7 @@ about:
   latestVersion: "1.17.0"
   latestRelease: "1.17.0"
   latestPrerelease: "1.11.0.rc.1"
-  collectedAt: 2026-09-11T06:23:25Z
+  collectedAt: 2026-09-11T18:28:31Z
 timeline:
   created: 2011-08-14
   lastCommit: 2026-07-06
@@ -87,7 +87,7 @@ total:
   commit: 10449
 ---
 path: /home/runner/.x-repo/github.com/CocoaPods/CocoaPods
-collectedAt: 2026-09-11T06:23:34Z
+collectedAt: 2026-09-11T18:28:41Z
 loc:
   Json:
     code: 233894
