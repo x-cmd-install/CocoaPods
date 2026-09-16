@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,831 · **Forks**: 2,677 · **Open issues**: 10,516 · **Contributors**: 323
+- **Stars**: 14,830 · **Forks**: 2,677 · **Open issues**: 10,516 · **Contributors**: 323
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 1 | 1 | 2 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 1 | 4 | 3 | 0 |
-| 90d | 2026-06-17 | 1 | 5 | 1 | 5 | 7 | 25 |
-| last180d | 2026-03-19 | 1 | 5 | 3 | 10 | 9 | 25 |
-| 360d | 2025-09-20 | 1 | 5 | 4 | 25 | 26 | 25 |
-| last720d | 2024-09-25 | 4 | 20 | 10 | 116 | 152 | 87 |
+| 30d | 2026-08-17 | 0 | 0 | 1 | 1 | 2 | 0 |
+| last60d | 2026-07-18 | 0 | 0 | 1 | 4 | 3 | 0 |
+| 90d | 2026-06-18 | 1 | 5 | 1 | 5 | 6 | 25 |
+| last180d | 2026-03-20 | 1 | 5 | 3 | 10 | 9 | 25 |
+| 360d | 2025-09-21 | 1 | 5 | 4 | 25 | 26 | 25 |
+| last720d | 2024-09-26 | 4 | 20 | 10 | 115 | 151 | 87 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for CocoaPods lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:49:26Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:48:45Z._
