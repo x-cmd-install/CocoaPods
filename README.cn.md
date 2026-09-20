@@ -4,7 +4,7 @@
 
 The Cocoa Dependency Manager.
 
-![CocoaPods](https://repo.x-cmd.io/CocoaPods.svg?lang=zh)
+[![x-cmd/install — CocoaPods Code Quality Monitoring Repo Card](https://repo.x-cmd.io/CocoaPods.svg?lang=zh)](https://x-cmd.com/install/CocoaPods)
 
 ## 安装
 
@@ -47,7 +47,7 @@ x install CocoaPods
 
 ## 流行度
 
-- **Star**: 14,831 · **Fork**: 2,676 · **开放 issue**: 10,517 · **贡献者**: 323
+- **Star**: 14,829 · **Fork**: 2,676 · **开放 issue**: 10,517 · **贡献者**: 323
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install CocoaPods
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 1 | 3 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 1 | 4 | 4 | 0 |
-| 90d | 2026-06-20 | 1 | 5 | 1 | 5 | 7 | 25 |
-| last180d | 2026-03-22 | 1 | 5 | 3 | 10 | 10 | 25 |
-| 360d | 2025-09-23 | 1 | 5 | 4 | 25 | 27 | 25 |
-| last720d | 2024-09-28 | 4 | 20 | 10 | 114 | 152 | 87 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 1 | 3 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 1 | 4 | 4 | 0 |
+| 90d | 2026-06-22 | 1 | 5 | 1 | 5 | 7 | 25 |
+| last180d | 2026-03-24 | 1 | 5 | 3 | 10 | 10 | 25 |
+| 360d | 2025-09-25 | 1 | 5 | 4 | 25 | 27 | 25 |
+| last720d | 2024-09-30 | 4 | 20 | 10 | 113 | 151 | 87 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ CocoaPods 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:35:50Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:34:49Z._
