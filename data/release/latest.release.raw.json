@@ -43,13 +43,13 @@
   "body": "##### Enhancements\r\n\r\n* Added `--no-lint` option for `pod repo push` command to allow skipping Lint phase when publishing a Pod.  \r\n  [Guillermo Mazzola](https://github.com/gmazzo)\r\n  [#12706](https://github.com/CocoaPods/CocoaPods/pull/12706)\r\n\r\n* Bump minimum Xcodeproj to 1.28.0.    \r\n  [Eric Amorde](https://github.com/amorde)\r\n  [#12913](https://github.com/CocoaPods/CocoaPods/pull/12913)\r\n\r\n* Remove unused escape dependency.  \r\n  [Samuel Giddins](https://github.com/segiddins), [Eric Amorde](https://github.com/amorde)\r\n  [#12914](https://github.com/CocoaPods/CocoaPods/pull/12914)\r\n\r\n##### Bug Fixes\r\n\r\n* Update ruby-macho to 4.1.0 to address new mergable libraries not beind detected correctly.  \r\n  [Parsa Nasirimehr](https://github.com/TheRogue76)\r\n  [#12691](https://github.com/CocoaPods/CocoaPods/pull/12691)\r\n\r\n* Fix a crash when run with certain versions of active_support.  \r\n  [Eric Amorde](https://github.com/amorde)\r\n  [#12915](https://github.com/CocoaPods/CocoaPods/pull/12915)",
   "reactions": {
     "url": "https://api.github.com/repos/CocoaPods/CocoaPods/releases/349901433/reactions",
-    "total_count": 15,
+    "total_count": 16,
     "+1": 0,
     "-1": 0,
     "laugh": 3,
     "hooray": 0,
     "confused": 0,
-    "heart": 7,
+    "heart": 8,
     "rocket": 3,
     "eyes": 2
   }
