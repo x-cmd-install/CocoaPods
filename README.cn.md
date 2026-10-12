@@ -30,9 +30,9 @@ x install CocoaPods
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/12 approved changesets -- score normalized to 0
-- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/12 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install CocoaPods
 
 ## 流行度
 
-- **Star**: 14,831 · **Fork**: 2,682 · **开放 issue**: 10,519 · **贡献者**: 323
+- **Star**: 14,831 · **Fork**: 2,682 · **开放 issue**: 10,522 · **贡献者**: 323
 
 ## 累计统计
 
-- **发布数**: 192 · **已合并 PR**: 1709 · **开放 PR**: 62 · **已关闭 issue**: 9741 · **开放 issue**: 778 · **提交数**: 10449
+- **发布数**: 192 · **已合并 PR**: 1709 · **开放 PR**: 62 · **已关闭 issue**: 9741 · **开放 issue**: 781 · **提交数**: 10449
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 1 | 0 | 3 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 1 | 1 | 5 | 0 |
-| 90d | 2026-07-13 | 0 | 0 | 1 | 4 | 7 | 0 |
-| last180d | 2026-04-14 | 1 | 5 | 2 | 8 | 12 | 25 |
-| 360d | 2025-10-16 | 1 | 5 | 3 | 24 | 26 | 25 |
-| last720d | 2024-10-21 | 4 | 20 | 10 | 92 | 137 | 87 |
+| 30d | 2026-09-12 | 0 | 0 | 1 | 0 | 6 | 0 |
+| last60d | 2026-08-13 | 0 | 0 | 1 | 1 | 8 | 0 |
+| 90d | 2026-07-14 | 0 | 0 | 1 | 4 | 10 | 0 |
+| last180d | 2026-04-15 | 1 | 5 | 2 | 8 | 15 | 25 |
+| 360d | 2025-10-17 | 1 | 5 | 3 | 24 | 29 | 25 |
+| last720d | 2024-10-22 | 4 | 20 | 10 | 89 | 139 | 87 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ CocoaPods 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261011.yml` · 2026-10-11T07:00:59Z._
+_数据快照: `data/card/261012.yml` · 2026-10-12T07:27:31Z._

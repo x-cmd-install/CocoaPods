@@ -30,9 +30,9 @@ Overall score: **2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/12 approved changesets -- score normalized to 0
-- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/12 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,831 · **Forks**: 2,682 · **Open issues**: 10,519 · **Contributors**: 323
+- **Stars**: 14,831 · **Forks**: 2,682 · **Open issues**: 10,522 · **Contributors**: 323
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 1709 · **Open PRs**: 62 · **Closed issues**: 9741 · **Open issues**: 778 · **Commits**: 10449
+- **Releases**: 192 · **Merged PRs**: 1709 · **Open PRs**: 62 · **Closed issues**: 9741 · **Open issues**: 781 · **Commits**: 10449
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 1 | 0 | 3 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 1 | 1 | 5 | 0 |
-| 90d | 2026-07-13 | 0 | 0 | 1 | 4 | 7 | 0 |
-| last180d | 2026-04-14 | 1 | 5 | 2 | 8 | 12 | 25 |
-| 360d | 2025-10-16 | 1 | 5 | 3 | 24 | 26 | 25 |
-| last720d | 2024-10-21 | 4 | 20 | 10 | 92 | 137 | 87 |
+| 30d | 2026-09-12 | 0 | 0 | 1 | 0 | 6 | 0 |
+| last60d | 2026-08-13 | 0 | 0 | 1 | 1 | 8 | 0 |
+| 90d | 2026-07-14 | 0 | 0 | 1 | 4 | 10 | 0 |
+| last180d | 2026-04-15 | 1 | 5 | 2 | 8 | 15 | 25 |
+| 360d | 2025-10-17 | 1 | 5 | 3 | 24 | 29 | 25 |
+| last720d | 2024-10-22 | 4 | 20 | 10 | 89 | 139 | 87 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for CocoaPods lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T07:00:57Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:27:31Z._
