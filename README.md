@@ -14,12 +14,12 @@ x install CocoaPods
 
 ## Code insight
 
-Total: **332,974** lines of code across **4569** files in the top 5 languages.
+Total: **332,971** lines of code across **4569** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 233,865 | 0 | 10,534 | 3268 |
-| Ruby | 39,203 | 8,855 | 6,758 | 278 |
+| Ruby | 39,200 | 8,855 | 6,758 | 278 |
 | ObjectiveC | 38,865 | 4,521 | 9,157 | 394 |
 | Sh | 6,945 | 1,125 | 1,223 | 59 |
 | CHeader | 6,775 | 9,967 | 3,709 | 570 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.17.0` (2026-07-06)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-15
 
 ## Popularity
 
-- **Stars**: 14,833 · **Forks**: 2,686 · **Open issues**: 10,525 · **Contributors**: 323
+- **Stars**: 14,833 · **Forks**: 2,687 · **Open issues**: 10,525 · **Contributors**: 325
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 1711 · **Open PRs**: 61 · **Closed issues**: 9748 · **Open issues**: 777 · **Commits**: 10457
+- **Releases**: 192 · **Merged PRs**: 1713 · **Open PRs**: 60 · **Closed issues**: 9772 · **Open issues**: 753 · **Commits**: 10464
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 2 | 2 | 1 | 3 | 6 |
-| last60d | 2026-09-16 | 0 | 2 | 2 | 4 | 5 | 6 |
-| 90d | 2026-08-17 | 0 | 2 | 3 | 6 | 7 | 6 |
-| last180d | 2026-05-19 | 1 | 7 | 3 | 11 | 14 | 33 |
-| 360d | 2025-11-20 | 1 | 7 | 5 | 26 | 24 | 33 |
-| last720d | 2024-11-25 | 1 | 7 | 8 | 75 | 119 | 36 |
+| 30d | 2026-10-17 | 0 | 4 | 1 | 2 | 2 | 15 |
+| last60d | 2026-09-17 | 0 | 4 | 1 | 6 | 3 | 15 |
+| 90d | 2026-08-18 | 0 | 4 | 2 | 8 | 5 | 15 |
+| last180d | 2026-05-20 | 1 | 9 | 2 | 14 | 11 | 42 |
+| 360d | 2025-11-21 | 1 | 9 | 4 | 30 | 20 | 42 |
+| last720d | 2024-11-26 | 1 | 9 | 7 | 93 | 99 | 43 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for CocoaPods lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:21:07Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:56:54Z._
