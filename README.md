@@ -26,13 +26,13 @@ Total: **332,971** lines of code across **4569** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **2 / 10**
+Overall score: **3 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (0/10) — Found 1/12 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 4 | 1 | 2 | 2 | 15 |
-| last60d | 2026-09-17 | 0 | 4 | 1 | 6 | 3 | 15 |
-| 90d | 2026-08-18 | 0 | 4 | 2 | 8 | 5 | 15 |
-| last180d | 2026-05-20 | 1 | 9 | 2 | 14 | 11 | 42 |
-| 360d | 2025-11-21 | 1 | 9 | 4 | 30 | 20 | 42 |
-| last720d | 2024-11-26 | 1 | 9 | 7 | 93 | 99 | 43 |
+| 30d | 2026-10-18 | 0 | 4 | 1 | 2 | 2 | 15 |
+| last60d | 2026-09-18 | 0 | 4 | 1 | 6 | 3 | 15 |
+| 90d | 2026-08-19 | 0 | 4 | 2 | 8 | 5 | 15 |
+| last180d | 2026-05-21 | 1 | 9 | 2 | 14 | 10 | 42 |
+| 360d | 2025-11-22 | 1 | 9 | 4 | 30 | 20 | 42 |
+| last720d | 2024-11-27 | 1 | 9 | 7 | 93 | 99 | 43 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for CocoaPods lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:56:54Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:34:16Z._
